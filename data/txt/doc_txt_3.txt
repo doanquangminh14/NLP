@@ -1,0 +1,3 @@
+Tiêu đề: Bảo mật thông tin đám mây
+
+Mã hóa dữ liệu và quản lý quyền truy cập là yếu tố cốt lõi trong bảo mật cloud computing.

@@ -1,0 +1,3 @@
+Xử lý ngôn ngữ tự nhiên
+Natural Language Processing
+Dữ liệu văn bản có thể đến từ nhiều nguồn khác nhau.

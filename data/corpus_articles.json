@@ -1,0 +1,32 @@
+[
+  {
+    "id": "doc_json_1",
+    "title": "Phát triển xe tự hành",
+    "content": "Xe tự hành kết hợp cảm biến LiDAR và camera để nhận diện chướng ngại vật trong thời gian thực."
+  },
+  {
+    "id": "doc_json_2",
+    "title": "Năng lượng tái tạo",
+    "content": "Điện mặt trời và điện gió đang trở thành nguồn năng lượng xanh thay thế nhiên liệu hóa thạch."
+  },
+  {
+    "id": "doc_json_3",
+    "title": "Mạng 5G và tương lai",
+    "content": "Mạng 5G cung cấp tốc độ truyền tải cực nhanh và độ trễ siêu thấp cho các thiết bị IoT."
+  },
+  {
+    "id": "doc_json_4",
+    "title": "Thương mại điện tử",
+    "content": "Hệ thống gợi ý sản phẩm (Recommendation System) giúp tăng trải nghiệm mua sắm của khách hàng."
+  },
+  {
+    "id": "doc_json_5",
+    "title": "Thành phố thông minh",
+    "content": "Smart City tối ưu hóa giao thông, chiếu sáng công cộng và quản lý rác thải bằng cảm biến thông minh."
+  },
+  {
+    "id": "doc_json_6",
+    "title": "Nông nghiệp công nghệ cao",
+    "content": "Ứng dụng IoT trong nông nghiệp giúp theo dõi độ ẩm đất và tự động tưới tiêu chính xác."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "post001",
+    "title": "AI trong giáo dục",
+    "category": "Công nghệ",
+    "content": "Trí tuệ nhân tạo hỗ trợ cá nhân hóa bài học và giúp giáo viên theo dõi tiến độ học tập của sinh viên.",
+    "text": "AI trong giáo dục Trí tuệ nhân tạo hỗ trợ cá nhân hóa bài học và giúp giáo viên theo dõi tiến độ học tập của sinh viên.",
+    "num_chars": 119,
+    "num_words_raw": 28
+  },
+  {
+    "id": "post002",
+    "title": "Bảo vệ môi trường",
+    "category": "Môi trường",
+    "content": "Mỗi người có thể giảm rác thải nhựa bằng cách dùng bình nước cá nhân, túi vải và phân loại rác tại nhà.",
+    "text": "Bảo vệ môi trường Mỗi người có thể giảm rác thải nhựa bằng cách dùng bình nước cá nhân, túi vải và phân loại rác tại nhà.",
+    "num_chars": 121,
+    "num_words_raw": 27
+  },
+  {
+    "id": "post003",
+    "title": "Thói quen đọc sách",
+    "category": "Giáo dục",
+    "content": "Đọc sách thường xuyên giúp mở rộng vốn từ, rèn luyện khả năng tập trung và tiếp cận nhiều góc nhìn mới.",
+    "text": "Thói quen đọc sách Đọc sách thường xuyên giúp mở rộng vốn từ, rèn luyện khả năng tập trung và tiếp cận nhiều góc nhìn mới.",
+    "num_chars": 122,
+    "num_words_raw": 26
+  },
+  {
+    "id": "post004",
+    "title": "An toàn trên Internet",
+    "category": "Công nghệ",
+    "content": "Người dùng nên đặt mật khẩu mạnh, bật xác thực hai yếu tố và cẩn trọng trước các liên kết đáng ngờ.",
+    "text": "An toàn trên Internet Người dùng nên đặt mật khẩu mạnh, bật xác thực hai yếu tố và cẩn trọng trước các liên kết đáng ngờ.",
+    "num_chars": 121,
+    "num_words_raw": 26
+  },
+  {
+    "id": "post005",
+    "title": "Lợi ích của vận động",
+    "category": "Sức khỏe",
+    "content": "Hoạt động thể chất đều đặn góp phần cải thiện sức khỏe tim mạch, giấc ngủ và tinh thần.",
+    "text": "Lợi ích của vận động Hoạt động thể chất đều đặn góp phần cải thiện sức khỏe tim mạch, giấc ngủ và tinh thần.",
+    "num_chars": 108,
+    "num_words_raw": 24
+  }
+]

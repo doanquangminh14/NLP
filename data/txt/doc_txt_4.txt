@@ -1,0 +1,3 @@
+Tiêu đề: Học máy cho người mới bắt đầu
+
+Machine Learning gồm ba nhánh chính: Học có giám sát, Học không giám sát và Học tăng cường.

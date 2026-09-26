@@ -1,0 +1,3 @@
+Tiêu đề: Xử lý dữ liệu lớn
+
+Big Data đòi hỏi các công nghệ lưu trữ phân tán như Hadoop và Apache Spark để xử lý hàng triệu bản ghi.
